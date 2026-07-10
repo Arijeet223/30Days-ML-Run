@@ -1,117 +1,96 @@
-# 🚀 30 Days of Machine Learning — Full Project Index
+# 🚀 30 Days ML Run
 
-This repository contains my complete **Machine Learning Roadmap**, divided into phases that gradually increase in difficulty — from beginner ML classifiers to deep learning, computer vision, NLP, and advanced agentic AI systems.
+Welcome to my **30 Days ML Run** — a personal challenge where I built and explored 12 machine learning projects to strengthen my understanding of core ML concepts, model development, preprocessing techniques, and evaluation.
 
-Each project will be implemented, documented, and committed daily as part of my **30-Day ML Challenge**.
-
----
-
-# 🗂️ Project Index
-
-## **🔵 Phase 1 — Beginner ML Classifiers**
-1. Iris Classifier  
-2. Penguin Species Classifier  
-3. Titanic Survival Prediction  
-4. House Price (Simple Regression)  
-5. Breast Cancer Classification  
+Each project focuses on a different real-world dataset and machine learning problem, helping me build practical experience while reinforcing the theory behind machine learning.
 
 ---
 
-## **🟢 Phase 2 — Core ML Models**
-6. Diabetes Prediction  
-7. Heart Disease Prediction  
-8. Wine Quality Classification  
-9. Customer Churn Prediction  
-10. Loan Approval Prediction  
+# 📂 Projects Completed
+
+| # | Project | Category |
+|---|---------|----------|
+| 1 | Iris Classification | Classification |
+| 2 | Penguin Species Classification | Classification |
+| 3 | Titanic Survival Prediction | Classification |
+| 4 | House Price Prediction | Regression |
+| 5 | Breast Cancer Classification | Classification |
+| 6 | Diabetes Prediction | Classification |
+| 7 | Heart Disease Prediction | Classification |
+| 8 | Wine Quality Classification | Classification |
+| 9 | Customer Churn Prediction | Classification |
+| 10 | Loan Approval Prediction | Classification |
+| 11 | Credit Card Fraud Detection (SMOTE & Undersampling) | Imbalanced Learning |
+| 12 | Bigram Language Model (PyTorch) | Deep Learning / NLP |
 
 ---
 
-## **🟣 Phase 3 — Intermediate to Advanced ML**
-11. Credit Card Fraud Detection (SMOTE / Undersampling)  
-12. Spam Classifier (NLP-based)  
-13. Rain Tomorrow Prediction (Weather)  
-14. MNIST Digit Classification (CNN)  
-15. Stock Price Trend Prediction (LSTM)  
+# 🧠 Concepts Covered
+
+### Machine Learning
+- Data preprocessing
+- Feature engineering
+- Classification
+- Regression
+- Train/Test Split
+- Model evaluation
+- Confusion Matrix
+- Accuracy, Precision, Recall & F1 Score
+
+### Handling Imbalanced Data
+- Random Undersampling
+- SMOTE Oversampling
+- Class distribution analysis
+
+### Deep Learning
+- PyTorch fundamentals
+- Embedding layers
+- Neural network basics
+- Language modeling
+- Bigram Language Model
 
 ---
 
-## **🟠 Phase 4 — Computer Vision + Deep Learning**
-16. Cat vs Dog Classifier  
-17. Brain Tumor Detection  
-18. Face Emotion Recognition (OpenCV + CNN)  
-19. RNN / LSTM Time Series Project  
+# 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Imbalanced-learn
+- PyTorch
+- Jupyter Notebook
 
 ---
 
-## **🟡 Phase 5 — Advanced Deep Learning**
-20. Object Detection (YOLO)  
-21. Image Segmentation (U-Net or similar)  
-22. Text Generation (LSTM)  
+# 🎯 What I Learned
+
+Throughout this challenge, I gained hands-on experience with:
+
+- Building complete ML pipelines
+- Working with real-world datasets
+- Data preprocessing and feature selection
+- Training and evaluating machine learning models
+- Handling imbalanced datasets using SMOTE and undersampling
+- Implementing my first language model using PyTorch
+- Developing stronger machine learning intuition through consistent practice
 
 ---
 
-## **🟤 Phase 6 — NLP + Agentic AI**
-23. Chatbot  
-24. Text Summarizer  
-25. Question Answering Bot  
-26. Codebase Assistant (RAG)  
-27. Autonomous Research Agent  
-28. AI Task Manager  
-29. Email Generator  
+# 📌 Repository Goal
+
+This repository documents my learning journey through machine learning by building practical projects instead of only studying theory.
+
+It serves as a foundation before moving into more advanced topics such as:
+
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Transformers
+- Large Language Models (LLMs)
+- Agentic AI
 
 ---
 
-# 🧠 **What I Learn Across the 30 Days**
-
-### **ML Concepts**
-- Classification, Regression  
-- Bias–variance tradeoff  
-- Validation set usage  
-- Early stopping  
-- Hyperparameter tuning  
-
-### **Deep Learning**
-- CNNs (image classification)  
-- RNNs, LSTMs (sequences)  
-- YOLO & segmentation networks  
-
-### **NLP**
-- Tokenization  
-- Sequence modeling  
-- Transformers (later phases)  
-- RAG & agent systems  
-
-### **Optimization**
-- SMOTE  
-- Regularization  
-- Learning rate schedules  
-- Convexity, concavity, Hessians  
-
----
-
-# 🛠️ **Tech Stack**
-- Python  
-- NumPy, Pandas  
-- Scikit-Learn  
-- TensorFlow / Keras  
-- PyTorch (later phases)  
-- Matplotlib / Seaborn  
-- OpenCV  
-- FastAPI / Flask (for deployable projects)  
-
----
-
-# ⭐ **Goal of This Run**
-By the end of Phase 6 + Special Projects, I aim to:
-
-- Master ML fundamentals  
-- Build production-ready models  
-- Develop ML intuition  
-- Build agent-style AI tools  
-- Strengthen my research mindset  
-- Create a strong public GitHub profile  
-
----
-
-If you find this useful, consider starring the repository ⭐  
-Stay tuned — I will update this daily with new projects!
+⭐ If you find this repository helpful, feel free to star it!
